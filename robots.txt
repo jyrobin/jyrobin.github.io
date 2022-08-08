@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jyrobin.github.io/sitemap.xml

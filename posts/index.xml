@@ -1,2 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on jyrobin &amp; posts</title><link>https://jyrobin.github.io/posts/</link><description>Recent content in Posts on jyrobin &amp; posts</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Aug 2022 00:00:45 +0800</lastBuildDate><atom:link href="https://jyrobin.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello, World?</title><link>https://jyrobin.github.io/posts/hello-world/</link><pubDate>Sun, 07 Aug 2022 00:00:45 +0800</pubDate><guid>https://jyrobin.github.io/posts/hello-world/</guid><description>Hello, World? Not an intriguing topic to write as my first story. Please bear with me as I just like to start murmuring something that emerges in my mind, for no particular reason. Is it the reason many, if not most, bloggers do? I&amp;rsquo;ll have to image so. So don&amp;rsquo;t tell me your answer.
-Well, I don&amp;rsquo;t remember in what language I write my first &amp;ldquo;hello world&amp;rdquo; program. My best guess would be Pascal or C, as I don&amp;rsquo;t recall doing so using Basic on my first Apple II computer.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on jy &amp; posts</title>
+    <link>https://jyrobin.github.io/posts/</link>
+    <description>Recent content in Posts on jy &amp; posts</description>
+    <image>
+      <url>https://jyrobin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jyrobin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 07 Aug 2022 00:00:45 +0800</lastBuildDate><atom:link href="https://jyrobin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World?</title>
+      <link>https://jyrobin.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:45 +0800</pubDate>
+      
+      <guid>https://jyrobin.github.io/posts/hello-world/</guid>
+      <description>Not an intriguing topic to write as my first blog post. Bear with me. I just happen to start murmuring something emerging in my head. Is it the main reason most bloggers do? I&amp;rsquo;ll have to image so. So don&amp;rsquo;t tell me your answer.
+I don&amp;rsquo;t remember in which language I wrote my first &amp;ldquo;hello world&amp;rdquo; program. My best guess would be Pascal or C, as I don&amp;rsquo;t recall doing so using Basic on my first Apple II computer.</description>
+    </item>
+    
+  </channel>
+</rss>
